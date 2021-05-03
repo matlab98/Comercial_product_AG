@@ -1,10 +1,10 @@
 @font-face {
-    font-family: "Halo";
-    src: url("font/Halo.ttf");
+    font-family: "KronaOne-regular";
+    src: url("font/KronaOne-Regular.ttf");
   }
 
   body {
-    font-family: "Halo";
+    font-family: "KronaOne-regular";
   }
 
 #header-img {
@@ -81,10 +81,10 @@ h2{
     text-align: center;
 }
 p{
-    font-family: "Halo";
+    font-family: "KronaOne-regular";
 }
 h1, h2,h3{
-    font-family: "Halo";
+    font-family: "KronaOne-regular";
 }
 footer {
     margin-top: 30px;
@@ -93,5 +93,14 @@ footer {
 }
 
 .logo {
-font-family: "Halo";
+font-family: "KronaOne-regular";
+}
+
+.format {
+    max-width: 40%;
+}
+
+.price {
+    width: 20rem;
+    margin-right: 20px;
 }
